@@ -1,6 +1,7 @@
 ---
 title: Welcome!
 description: ""
+free_preview: true
 ---
 
 ## Weclome to
