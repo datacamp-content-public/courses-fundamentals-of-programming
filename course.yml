@@ -1,4 +1,7 @@
 title: Fundamentals of Programming
-description: Course description goes here.
+description: >-
+  Fundamentals of Programming is designed to cover key Python programming skills
+  and techniques. The course runs over 10 weeks including weekly workshops and a
+  small marked assignment at the end to test your knowledge.
 programming_language: python
-from: python-base-prod:v1.0.2
+from: 'python-base-prod:v1.0.2'
