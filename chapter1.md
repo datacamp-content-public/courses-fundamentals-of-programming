@@ -1,42 +1,15 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: Welcome!
+description: ""
 ---
 
-## Example coding exercise
+## Weclome to
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: 95c52076e0
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+132f5a9953c3d5174e90e34c690c07b8
