@@ -15,8 +15,6 @@ Before we dive into any complicated programming, it is important to first unders
 
 Instead of dealing with`1`s and `0`s, we can give Python simple commands to execute. Python allows us to view a visual representation of our data with the `print()` function.
 
-
-
 `@instructions`
 Write your first ever program!
 
