@@ -45,6 +45,31 @@ Here's an example:
 
 
 ---
+## Order of Operations
+
+```yaml
+type: "FullSlide"
+key: "b26851c2c5"
+```
+
+`@part1`
+In the previous slide, we discussed that the `*` and `\` symbols denote multiplication and division respectively. 
+
+Python also calculates using the standard order of operations such as BODMAS.
+
+1. Brackets - `()`
+2. Order (Exponents, Powers, Roots) - `**`
+3. Multiplication or Division - `*` or `/`
+4. Addition or Subtraction - `+` or `-`
+
+Make sure you close your brackets off properly!
+
+
+`@script`
+
+
+
+---
 ## Let's practice!
 
 ```yaml
