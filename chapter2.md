@@ -50,7 +50,7 @@ print("Hello world!")
 
 `@sct`
 ```{python}
-Ex().check_function('print').has_equal_output("Failed the first test case!")
+Ex().check_function("print").has_equal_value().has_equal_output("Failed the first test case!")
 success_msg("Passed the first test case!")
 ```
 
