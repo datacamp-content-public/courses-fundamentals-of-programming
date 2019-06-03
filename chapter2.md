@@ -114,3 +114,41 @@ print(8*7*6*5*4*3*2*1)
 Ex().check_function("print").has_equal_value().has_equal_output("Failed the first test case!")
 success_msg("Passed the first test case!")
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: f1d1dbdbc6
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
