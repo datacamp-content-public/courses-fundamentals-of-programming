@@ -4,7 +4,7 @@ description: ""
 free_preview: true
 ---
 
-## Weclome to
+## Welcome!
 
 ```yaml
 type: VideoExercise

@@ -106,11 +106,11 @@ Here's an example:
 
 `@solution`
 ```{python}
-print(8*7*6*5*4*3*2)
+print(8*7*6*5*4*3*2*1)
 ```
 
 `@sct`
 ```{python}
-Ex().check_function('print').has_equal_output("Failed the first test case!")
+Ex().check_function("print").check_args().has_equal_value().has_equal_output("Failed the first test case!")
 success_msg("Passed the first test case!")
 ```
